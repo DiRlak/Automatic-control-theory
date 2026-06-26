@@ -1,0 +1,22 @@
+# MATLAB / Simulink temporary files
+*.asv
+*.autosave
+*.slxc
+*.mex*
+*.log
+*.bak
+
+# Simulink cache/codegen
+slprj/
+*_ert_rtw/
+*_grt_rtw/
+codegen/
+simulink_cache.xml
+checksumOfCache*.mat
+varInfo*.mat
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
